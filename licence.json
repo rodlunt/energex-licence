@@ -1,0 +1,10 @@
+{
+ "payload": {
+  "version": 1,
+  "issued": "2026-10-07T01:43:46Z",
+  "approved": [
+   "7a3d9854eedcb6cc9d3f60918fc757720107a19f72718fc94bca473ed596268e"
+  ]
+ },
+ "signature": "y7d2woA3QiykBzHYSwKOKBdDZJLKdD0Km4SqjFd/rs3XlAnHsP2k88jKYSyQyLp3CM7yboaiSE0APJkYhxHZBg=="
+}
