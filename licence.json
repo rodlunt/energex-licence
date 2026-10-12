@@ -1,10 +1,11 @@
 {
  "payload": {
   "version": 1,
-  "issued": "2026-10-07T01:43:46Z",
+  "issued": "2026-10-12T08:44:14Z",
   "approved": [
-   "7a3d9854eedcb6cc9d3f60918fc757720107a19f72718fc94bca473ed596268e"
+   "7a3d9854eedcb6cc9d3f60918fc757720107a19f72718fc94bca473ed596268e",
+   "ec28ca72a370edb88aa459c4a217b4639f42f98481ab993775b52c3ad474a936"
   ]
  },
- "signature": "y7d2woA3QiykBzHYSwKOKBdDZJLKdD0Km4SqjFd/rs3XlAnHsP2k88jKYSyQyLp3CM7yboaiSE0APJkYhxHZBg=="
+ "signature": "t8vrxGtMcJhRx7wyBhvOukIA9uoSDxsyqi6UoRlv/aP5zchHG2ZD/PinXUETj7hseoql23q6sWSX8/0/A6NyCw=="
 }
